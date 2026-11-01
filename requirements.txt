@@ -1,0 +1,3 @@
+streamlit>=1.35,<2.0
+pytest>=8.0,<10.0
+coverage>=7.4,<8.0
